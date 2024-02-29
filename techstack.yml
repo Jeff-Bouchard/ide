@@ -2,7 +2,7 @@ repo_name: Jeff-Bouchard/ide
 report_id: fddd278a73cf2ba4f44b2d29cf7d8184
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-04T14:46:26+00:00'
+timestamp: '2024-02-29T19:53:57+00:00'
 requested_by: cemtu
 provider: github
 branch: master
@@ -53,7 +53,7 @@ tools:
   last_updated_by: cemtu
   last_updated_on: 2023-12-27 21:13:19.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 14.0.2
   open_source: true
